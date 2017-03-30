@@ -1,7 +1,10 @@
 {
-  "name": "hexo-site",
-  "version": "0.0.0",
+  "name": "rambou-blog",
+  "version": "1.0.0",
   "private": true,
+  "scripts": {
+    "start": "hexo server -p 80"
+  },
   "hexo": {
     "version": "3.2.2"
   },
