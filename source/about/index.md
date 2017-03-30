@@ -18,5 +18,5 @@ This blog is about my life, technology and some daily research about projects th
 Well having my own blog was something that i wanted a long time ago. I've tried in past but with no success. It was either time or the available frameworks out there that didn't like so much. When i found Hexo framework was a love at first sight. I've spend some time try to set it up and run it on a docker container but anyway!
 
 <p style="text-align:right;">
-    — <a href="http://www.rambou.gr">Rambou</a>
+    — <a href="https://www.rambou.gr">Rambou</a>
 </p>
